@@ -1,1 +1,1 @@
-web: bin/sbt run
+web: target/start
