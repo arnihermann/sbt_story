@@ -9,7 +9,7 @@ public class WorldTest {
     @Test
     public void greetResultsInHello() {
         World world = new World();
-        assertEquals("Hello word", world.greet());
+        assertEquals("Hello world", world.greet());
     }
 
 }
